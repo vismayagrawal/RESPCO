@@ -54,7 +54,7 @@ Please note depending on your raw dataset format, you might need to edit [code/p
 ### 5. Generating Splits
 
 1. Given dataset directory, [code/generate_splits.py](code/generate_splits.py) generates k-fold splits 
-2. It saves .txt files, containing the list of the path of preprocessed files
+2. It writes the output to .txt files, which contains the list of the path of preprocessed files
 
 ### 6. Training and Testing
 
